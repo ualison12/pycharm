@@ -8,9 +8,4 @@ if num in fibonacci:
 else:
     print(f"O número {num} não pertence à sequência de Fibonacci.")
     
-    
-C:\Users\Artvirtua\PycharmProjects\pythonProject8\venv\Scripts\python.exe C:\Users\Artvirtua\PycharmProjects\pythonProject8\main.py 
-Digite um número inteiro: 1
-O número 1 pertence à sequência de Fibonacci.
 
-Process finished with exit code 0
